@@ -48,6 +48,28 @@
 //     console.log(mix[i])
 // }
 
+// let bool=[true, false, 1, 2, 'one', 'two', 'three', 8, 9, 10]
+// for (i=0; i<10; i++){
+//     if (typeof bool[i]==='boolean'){
+//         console.log(bool[i])
+//     }
+// }
+
+
+// let numbers=[true, false, 1, 2, 'one', 'two', 'three', 8, 9, 10]
+// for (i=0; i<10; i++){
+//     if (typeof numbers[i]==='number'){
+//         console.log(numbers[i])
+//     }
+// }
+
+// let string=[true, false, 1, 2, 'one', 'two', 'three', 8, 9, 10]
+// for (i=0; i<10; i++){
+//     if (typeof string[i]==='string'){
+//         console.log(string[i])
+//     }
+// }
+
 // let array = [ ];
 // array[0] = 1;
 // array[1] = 'html';
